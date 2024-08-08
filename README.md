@@ -2,7 +2,7 @@
 
 ## Description
 
-Monke Power is a mod for Gorilla Tag that enhances the player’s abilities with long arms and a 5x speed boost.
+Monke Power is a mod for Gorilla Tag that enhances the player’s abilities with long arms and a speed boost.
 
 ## Features
 
